@@ -22,8 +22,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(die1Button.value)
         sumLabel.text = String(sum)
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

@@ -27,5 +27,15 @@ class DieButton: UIButton {
      background color for frozen
      background color for non frozen
      */
+    
+    //func rollDie()->Int {
+//    change number and set title
+    //    }
+//    func Set display change color
+//    func reset dies
+//    func reverse isFrozen
+    
+    
+    
 
 }
